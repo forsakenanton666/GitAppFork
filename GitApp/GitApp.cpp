@@ -12,4 +12,7 @@ int main()
 	// Some Changes 6 at the office
 	// Some Changes 7 at the office
 	// Some Changes 8 at the office
+	// Good work
+
+	// Code after detach HEAD
 }
